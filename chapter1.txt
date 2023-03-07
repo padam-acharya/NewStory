@@ -1,1 +1,2 @@
 This is the first part of "My Life"
+This is an additional line
